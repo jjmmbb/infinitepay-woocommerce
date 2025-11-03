@@ -3,7 +3,7 @@
  * Plugin Name: InfinitePay for WooCommerce
  * Description: Integração com InfinitePay via link de checkout, com suporte a Pix, boleto, cartão e QR Code.
  * Version: 1.0
- * Author: Seu Nome
+ * Author: jjmmbb
  * Text Domain: infinitepay
  */
 
